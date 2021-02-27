@@ -1,0 +1,4 @@
+googlemaps>=4.4.2
+python-dotenv>=0.15.0
+csvkit>=1.0.5
+psycopg2>=2.8.6
